@@ -112,6 +112,6 @@ This project demonstrates how Python data science libraries can be used to perfo
 It highlights the power of Pandas, NumPy, Matplotlib, and Seaborn in extracting insights from real-world data.
 👨‍💻 Author
 
-Adiba Ansari
+Shristi Joshi
 
 College Assignment – Data Analysis Project
